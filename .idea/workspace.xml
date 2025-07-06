@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3fffe11-5729-4791-ac30-94e52c378051" name="Changes" comment="React Native Boilerplate set-up">
+    <list default="true" id="a3fffe11-5729-4791-ac30-94e52c378051" name="Changes" comment="Adding ListScreen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rn-starter/src/screens/ListScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/rn-starter/src/screens/ListScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rn-starter" beforeDir="false" afterPath="$PROJECT_DIR$/rn-starter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rn-starter/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/rn-starter/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rn-starter/src/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/rn-starter/src/screens/HomeScreen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,41 +25,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rn-starter" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "joehalls605"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;joehalls605&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/0x-cygnet/rn-starter.git",
-    "accountId": "d234e488-5a0c-4557-a089-cc4a0ce093b0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/0x-cygnet/rn-starter.git&quot;,
+    &quot;accountId&quot;: &quot;d234e488-5a0c-4557-a089-cc4a0ce093b0&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2zUkw5kuRAedP0D0SdnUkNnGjzK" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/joeha/Documents/Mobile Development/Boilerplate",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/joeha/Documents/Mobile Development/Boilerplate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +75,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751793274528</updated>
-      <workItem from="1751793275762" duration="7066000" />
+      <workItem from="1751793275762" duration="7361000" />
+      <workItem from="1751827357349" duration="656000" />
     </task>
     <task id="LOCAL-00001" summary="React Native Boilerplate set-up">
       <option name="closed" value="true" />
@@ -83,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751805009870</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding ListScreen">
+      <option name="closed" value="true" />
+      <created>1751806663300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751806663300</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="React Native Boilerplate set-up" />
-    <option name="LAST_COMMIT_MESSAGE" value="React Native Boilerplate set-up" />
+    <MESSAGE value="Adding ListScreen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding ListScreen" />
   </component>
 </project>
