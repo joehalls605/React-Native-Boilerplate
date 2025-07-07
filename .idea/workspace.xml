@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3fffe11-5729-4791-ac30-94e52c378051" name="Changes" comment="configuring props and navigation">
-      <change afterPath="$PROJECT_DIR$/rn-starter/src/components/imageDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rn-starter/src/screens/ImageScreen.js" afterDir="false" />
+    <list default="true" id="a3fffe11-5729-4791-ac30-94e52c378051" name="Changes" comment="Working with components and Image">
+      <change afterPath="$PROJECT_DIR$/rn-starter/src/screens/CounterScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rn-starter/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/rn-starter/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rn-starter/src/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/rn-starter/src/screens/HomeScreen.js" afterDir="false" />
@@ -47,21 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/joeha/Documents/Mobile Development/Boilerplate",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/joeha/Documents/Mobile Development/Boilerplate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1751793274528</updated>
       <workItem from="1751793275762" duration="7361000" />
-      <workItem from="1751827357349" duration="2063000" />
+      <workItem from="1751827357349" duration="2405000" />
+      <workItem from="1751880198132" duration="1563000" />
     </task>
     <task id="LOCAL-00001" summary="React Native Boilerplate set-up">
       <option name="closed" value="true" />
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751828899277</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Working with components and Image">
+      <option name="closed" value="true" />
+      <created>1751829724565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751829724566</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +131,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="SHOW_ROOT_NAMES" value="true" />
+            </State>
           </value>
         </entry>
       </map>
@@ -134,6 +144,7 @@
     <MESSAGE value="Adding ListScreen" />
     <MESSAGE value="Working with button and touchable opacity" />
     <MESSAGE value="configuring props and navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="configuring props and navigation" />
+    <MESSAGE value="Working with components and Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with components and Image" />
   </component>
 </project>
